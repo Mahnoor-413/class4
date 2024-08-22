@@ -73,15 +73,18 @@ del num13
 # division multipliction , add or sum
 # num10 =3=3-10**4//2>4 (answer in true or false)
 
+
 # camparision operaters
 add = 4>=5
 print(add)
+
 
 # For AND operator 
 # Tand T = T
 # T and F = F
 #  F and T = F
 # F and T = F
+     
 
 # For OR operator
 # F and T = T
@@ -106,7 +109,9 @@ print(num50)
 
 
 
-user3:int = int(input("enter a number"))23
+
+
+user3:int = int(input("enter a number"))
 output2 = int(user3) - 5
 print(output2)
  
